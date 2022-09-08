@@ -1,6 +1,6 @@
 # what is intune
 
-[![what is intune](gett-stateed.png)](https://computersolve.com/what-is-intune/)
+[![what is intune](gett-stateed.png)](https://icncomputer.com/what-is-intune/)
 
 Intune is Microsoft’s cloud-based mobile device management (MDM) solution. It provides agentless management for devices and is hosted in Azure – which means it doesn’t require on-prem infrastructure nor will it need VPNs to manage devices.
 
